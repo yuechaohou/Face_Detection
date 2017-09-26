@@ -1,0 +1,32 @@
+/home/capstone/adaboost/aflw/data/flickr/0/image03890.jpg
+168 257 286 257
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+407 508 834 508
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+604 420 675 420
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+725 134 563 134
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+527 454 463 454
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+117 57 142 57
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+100 98 148 98
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+518 1088 926 1088
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+876 176 598 176
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+955 147 570 147
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+157 109 137 109
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+806 778 1482 778
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+88 148 147 148
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+49 29 239 29
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+126 146 146 146
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+324 35 196 35

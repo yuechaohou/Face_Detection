@@ -1,0 +1,72 @@
+Unable to open image: left_pos_sample/image58407nr_0.jpg
+OpenCV Error: Unknown error code -9 () in cvSetImageROI, file /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp, line 3000
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp:3000: error: (-9)  in function cvSetImageROI
+
+Info file name: left_pos_sample/pos_info_left.txt
+Img file name: (NULL)
+Vec file name: left_pos_example.vec
+BG  file name: (NULL)
+Num: 22395
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 0.1
+Max y angle: 0.1
+Max z angle: 0.1
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 32
+	Height: $backgroundHeight / 32
+Create training samples from images collection...
+./create_left_postive_vec.sh: line 9: 23617 Aborted                 (core dumped) opencv_createsamples -vec $output_name -info $list_file -num $num -w $width -h $height -maxxangle 0.1 -maxyangle 0.1 -maxzangle 0.1
+Unable to open image: front_pos_sample/image20206nr_0.jpg
+OpenCV Error: Unknown error code -9 () in cvSetImageROI, file /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp, line 3000
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp:3000: error: (-9)  in function cvSetImageROI
+
+Info file name: front_pos_sample/pos_info_front.txt
+Img file name: (NULL)
+Vec file name: front_pos_example.vec
+BG  file name: (NULL)
+Num: 67190
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 0.1
+Max y angle: 0.1
+Max z angle: 0.1
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 32
+	Height: $backgroundHeight / 32
+Create training samples from images collection...
+./create_front_postive_vec.sh: line 9: 23621 Aborted                 (core dumped) opencv_createsamples -vec $output_name -info $list_file -num $num -w $width -h $height -maxxangle 0.1 -maxyangle 0.1 -maxzangle 0.1
+Unable to open image: right_pos_sample/image56267nr_0.jpg
+OpenCV Error: Unknown error code -9 () in cvSetImageROI, file /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp, line 3000
+terminate called after throwing an instance of 'cv::Exception'
+  what():  /home/capstone/Downloads/opencv-2.4.13/modules/core/src/array.cpp:3000: error: (-9)  in function cvSetImageROI
+
+Info file name: right_pos_sample/pos_info_right.txt
+Img file name: (NULL)
+Vec file name: right_pos_example.vec
+BG  file name: (NULL)
+Num: 23075
+BG color: 0
+BG threshold: 80
+Invert: FALSE
+Max intensity deviation: 40
+Max x angle: 0.1
+Max y angle: 0.1
+Max z angle: 0.1
+Show samples: FALSE
+Original image will be scaled to:
+	Width: $backgroundWidth / 32
+	Height: $backgroundHeight / 32
+Create training samples from images collection...
+./create_right_postive_vec.sh: line 9: 23637 Aborted                 (core dumped) opencv_createsamples -vec $output_name -info $list_file -num $num -w $width -h $height -maxxangle 0.1 -maxyangle 0.1 -maxzangle 0.1
+left_pos_example.vec
+front_pos_example.vec
+right_pos_example.vec

@@ -1,0 +1,1968 @@
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+465 46 743 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+116 720 743 720
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1463 743 743 743
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1486 790 743 790
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1533 906 743 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1556 906 743 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1579 906 743 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1603 906 743 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1626 906 743 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1184 929 743 929
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1556 929 743 929
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1603 929 743 929
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1626 929 743 929
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2741 929 743 929
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1672 952 743 952
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1579 975 743 975
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1626 999 743 999
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1649 1022 743 1022
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2160 1022 743 1022
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1603 1045 743 1045
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2160 1045 743 1045
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2578 1115 743 1115
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1231 1161 743 1161
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1208 1184 743 1184
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+952 1231 743 1231
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1231 1301 743 1301
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1138 1347 743 1347
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2555 1417 743 1417
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+395 1556 743 1556
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+332 26 818 26
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+332 179 818 179
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1380 741 818 741
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1610 843 818 843
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1558 894 818 894
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1584 894 818 894
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1610 894 818 894
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2683 1099 818 1099
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2069 1150 818 1150
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2120 1175 818 1175
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2044 1201 818 1201
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2095 1201 818 1201
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2120 1201 818 1201
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+478 197 899 197
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+506 534 899 534
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2557 1068 899 1068
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2051 1096 899 1096
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2080 1096 899 1096
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2164 1096 899 1096
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1995 1124 899 1124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2051 1124 899 1124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2080 1124 899 1124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2108 1124 899 1124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2220 1124 899 1124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2051 1152 899 1152
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2108 1152 899 1152
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+278 124 989 124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+711 124 989 124
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+216 155 989 155
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+278 185 989 185
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+309 185 989 185
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+340 185 989 185
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+649 185 989 185
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+216 371 989 371
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1947 1051 989 1051
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1978 1051 989 1051
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2009 1051 989 1051
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1978 1082 989 1082
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2318 1082 989 1082
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1978 1113 989 1113
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1917 1144 989 1144
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1978 1175 989 1175
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2009 1175 989 1175
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2071 1175 989 1175
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1947 1237 989 1237
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+680 34 1088 34
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+306 68 1088 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+306 136 1088 136
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+306 204 1088 204
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+340 204 1088 204
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1972 986 1088 986
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2074 986 1088 986
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2278 986 1088 986
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1938 1020 1088 1020
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1938 1054 1088 1054
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1904 1088 1088 1088
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1972 1122 1088 1122
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2006 1122 1088 1122
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1972 1190 1088 1190
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+204 1258 1088 1258
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+262 187 1197 187
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+299 187 1197 187
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2095 1010 1197 1010
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1908 1047 1197 1047
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2020 1047 1197 1047
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2207 1047 1197 1047
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2282 1047 1197 1047
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2095 1085 1197 1085
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+329 247 1317 247
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1893 823 1317 823
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2016 864 1317 864
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2057 946 1317 946
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1934 987 1317 987
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2098 987 1317 987
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1991 860 1448 860
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1991 905 1448 905
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1792 597 1593 597
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1942 747 1593 747
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1752 548 1752 548
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+339 16 100 16
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+132 19 100 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+132 22 100 22
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 22 100 22
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+298 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+304 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+320 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+355 25 100 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+298 28 100 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 28 100 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 28 100 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 28 100 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 28 100 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+135 31 100 31
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+311 31 100 31
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 38 100 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+380 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+383 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+386 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+389 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+392 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+395 44 100 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 47 100 47
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 47 100 47
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 47 100 47
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 50 100 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 50 100 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 53 100 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 53 100 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 53 100 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+72 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+348 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+355 56 100 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+348 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 60 100 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+176 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+289 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+311 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+348 63 100 63
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+169 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+336 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+367 66 100 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+336 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+339 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+348 69 100 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+166 72 100 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+163 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+339 75 100 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+157 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+273 78 100 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 82 100 82
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 82 100 82
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 85 100 85
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+151 85 100 85
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+157 85 100 85
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+166 85 100 85
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+173 85 100 85
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+166 88 100 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+169 88 100 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+173 88 100 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 88 100 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+169 91 100 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 91 100 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 94 100 94
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 97 100 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 97 100 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 97 100 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+358 97 100 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+63 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+358 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+367 100 100 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+44 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+358 104 100 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+44 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+358 107 100 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+336 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+339 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+348 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+395 110 100 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+44 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+47 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+333 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+336 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+339 113 100 113
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 116 100 116
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 116 100 116
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 119 100 119
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 119 100 119
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 119 100 119
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 122 100 122
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 122 100 122
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+264 122 100 122
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 126 100 126
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+395 126 100 126
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 129 100 129
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 132 100 132
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+56 132 100 132
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+282 132 100 132
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 135 100 135
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+279 135 100 135
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+282 135 100 135
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+16 138 100 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+267 138 100 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+279 138 100 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+286 141 100 141
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 144 100 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+44 144 100 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 144 100 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+279 144 100 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 148 100 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 148 100 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 151 100 151
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 154 100 154
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 157 100 157
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+364 163 100 163
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 166 100 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+364 166 100 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+367 166 100 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 169 100 169
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+367 169 100 169
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+148 188 100 188
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+144 198 100 198
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+169 198 100 198
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+220 201 100 201
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 213 100 213
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 10 110 10
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 10 110 10
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 14 110 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+362 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+366 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+383 17 110 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+269 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+318 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+321 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+325 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+356 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+362 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+366 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+369 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+380 21 110 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+325 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+328 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+356 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+369 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+383 24 110 24
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 28 110 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 28 110 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+311 31 110 31
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+293 35 110 35
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 35 110 35
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 38 110 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 38 110 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 38 110 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 41 110 41
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 45 110 45
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 45 110 45
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+48 45 110 45
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 48 110 48
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+24 48 110 48
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 48 110 48
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 48 110 48
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+24 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+55 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 52 110 52
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+176 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+304 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+318 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 55 110 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 59 110 59
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 59 110 59
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 59 110 59
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 59 110 59
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 59 110 59
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 62 110 62
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+321 66 110 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+380 69 110 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 72 110 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 72 110 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 72 110 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+152 72 110 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 76 110 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 76 110 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 76 110 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 76 110 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 79 110 79
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 79 110 79
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+366 83 110 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 90 110 90
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 90 110 90
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 90 110 90
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 93 110 93
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 93 110 93
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 93 110 93
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+24 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 97 110 97
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+24 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+48 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 100 110 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+24 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 104 110 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+328 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 107 110 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+3 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+7 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+387 110 110 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 114 110 114
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 117 110 117
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 117 110 117
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+269 117 110 117
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 121 110 121
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+383 121 110 121
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+290 124 110 124
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 128 110 128
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+276 128 110 128
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 131 110 131
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+259 131 110 131
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+273 131 110 131
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 135 110 135
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 135 110 135
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 138 110 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 142 110 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 142 110 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 142 110 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 142 110 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 142 110 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 145 110 145
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+45 145 110 145
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 145 110 145
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 148 110 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 148 110 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+48 148 110 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+55 148 110 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 152 110 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+55 152 110 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+252 152 110 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 159 110 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 159 110 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+52 159 110 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 162 110 162
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+55 162 110 162
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+362 162 110 162
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+55 166 110 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+352 166 110 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 166 110 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+362 166 110 166
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 169 110 169
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 173 110 173
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+173 197 110 197
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 8 122 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 8 122 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 11 122 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+353 11 122 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 11 122 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 11 122 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+368 11 122 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+281 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+353 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+365 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+368 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+372 15 122 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+327 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+353 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+365 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+368 19 122 19
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 23 122 23
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 23 122 23
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+327 27 122 27
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 27 122 27
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 27 122 27
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 34 122 34
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+311 38 122 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 42 122 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 46 122 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+171 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 49 122 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 53 122 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+342 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+376 57 122 57
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+311 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+368 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+372 61 122 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 65 122 65
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 68 122 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 68 122 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 68 122 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 68 122 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 68 122 68
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 72 122 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 72 122 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+228 76 122 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 76 122 76
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 80 122 80
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 80 122 80
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 80 122 80
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 80 122 80
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 80 122 80
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+353 84 122 84
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+346 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 91 122 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 95 122 95
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+49 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 99 122 99
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+327 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 103 122 103
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 106 122 106
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 106 122 106
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 106 122 106
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 106 122 106
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 106 122 106
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+27 110 122 110
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+285 122 122 122
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 125 122 125
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 125 122 125
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 129 122 129
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 129 122 129
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 133 122 133
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 133 122 133
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 137 122 137
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 137 122 137
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 137 122 137
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+49 137 122 137
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 141 122 141
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 141 122 141
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 141 122 141
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+49 141 122 141
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 144 122 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+49 144 122 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+353 144 122 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 148 122 148
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 152 122 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 152 122 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 152 122 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 152 122 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 152 122 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 156 122 156
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 156 122 156
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+30 159 122 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 159 122 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 159 122 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+34 163 122 163
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 163 122 163
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 163 122 163
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+357 163 122 163
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 167 122 167
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 190 122 190
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 4 134 4
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 4 134 4
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+363 4 134 4
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+343 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+347 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+351 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+355 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+363 8 134 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+301 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+309 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+343 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+347 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+351 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+355 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+363 13 134 13
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+288 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+343 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+347 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+351 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+355 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+363 17 134 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 21 134 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 21 134 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 21 134 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+343 21 134 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+363 21 134 21
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+280 29 134 29
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+288 29 134 29
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 38 134 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 38 134 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 38 134 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+309 38 134 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 38 134 38
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 42 134 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 42 134 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 42 134 42
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 46 134 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 46 134 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 46 134 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 46 134 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 50 134 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 50 134 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 50 134 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 54 134 54
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 54 134 54
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 54 134 54
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+313 54 134 54
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+338 54 134 54
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+313 58 134 58
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+330 58 134 58
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+359 58 134 58
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 67 134 67
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 67 134 67
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 71 134 71
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+259 71 134 71
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 75 134 75
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 79 134 79
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 84 134 84
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+343 84 134 84
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 88 134 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 88 134 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 88 134 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 88 134 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 88 134 88
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 92 134 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 92 134 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 92 134 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 92 134 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+8 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 96 134 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 100 134 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 100 134 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 100 134 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 100 134 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 100 134 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 104 134 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 104 134 104
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 121 134 121
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 125 134 125
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 129 134 129
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 129 134 129
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 134 134 134
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 134 134 134
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 138 134 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 138 134 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 142 134 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 142 134 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 146 134 146
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 146 134 146
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 146 134 146
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+42 146 134 146
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 146 134 146
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+4 150 134 150
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+21 150 134 150
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 155 134 155
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+33 155 134 155
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 155 134 155
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+50 155 134 155
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+25 159 134 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+29 159 134 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+299 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 5 147 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+294 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+303 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+317 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+340 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 9 147 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+312 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+340 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 14 147 14
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+280 18 147 18
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 18 147 18
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 18 147 18
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+303 23 147 23
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 23 147 23
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+326 23 147 23
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+46 28 147 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+312 28 147 28
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+276 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+345 32 147 32
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 37 147 37
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 41 147 41
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 41 147 41
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 46 147 46
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 51 147 51
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+322 51 147 51
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+331 51 147 51
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 55 147 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+349 55 147 55
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 60 147 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 60 147 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 60 147 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 60 147 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 60 147 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 64 147 64
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 64 147 64
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+32 64 147 64
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 69 147 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 69 147 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 69 147 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 69 147 69
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 74 147 74
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 74 147 74
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+335 74 147 74
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 78 147 78
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+37 83 147 83
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 87 147 87
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 87 147 87
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 87 147 87
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 92 147 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+14 92 147 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 92 147 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 92 147 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+32 92 147 92
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 96 147 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 96 147 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 96 147 96
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 133 147 133
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+32 133 147 133
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 138 147 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 138 147 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 138 147 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+32 138 147 138
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+9 142 147 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 142 147 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+32 142 147 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 147 147 147
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+37 147 147 147
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 152 147 152
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 161 147 161
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+23 165 147 165
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+318 5 162 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 5 162 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+329 5 162 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 5 162 5
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+329 10 162 10
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 10 162 10
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+293 15 162 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+318 15 162 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 15 162 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 15 162 15
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+318 20 162 20
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+323 20 162 20
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+329 20 162 20
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+298 25 162 25
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+288 30 162 30
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+293 35 162 35
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+273 40 162 40
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+308 40 162 40
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 51 162 51
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+207 51 162 51
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 56 162 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 56 162 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+217 56 162 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+334 56 162 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 61 162 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 61 162 61
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 66 162 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 66 162 66
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 81 162 81
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 86 162 86
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 91 162 91
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 131 162 131
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 131 162 131
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 136 162 136
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+10 136 162 136
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+5 142 162 142
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+15 147 162 147
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+306 6 178 6
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+317 6 178 6
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+11 11 178 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 11 178 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+289 11 178 11
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+17 17 178 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+22 17 178 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+284 17 178 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+300 17 178 17
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+267 33 178 33
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+278 33 178 33
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 44 178 44
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 50 178 50
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+306 56 178 56
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 72 178 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+18 6 196 6
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+287 6 196 6
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+232 18 196 18
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+6 49 196 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+281 49 196 49
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+209 7 215 7
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+188 20 215 20
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+269 27 215 27
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+155 8 260 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+163 8 260 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+171 8 260 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+179 8 260 8
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+195 16 260 16
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+170 9 287 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+179 9 287 9
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+152 18 287 18

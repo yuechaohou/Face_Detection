@@ -1,0 +1,238 @@
+/home/capstone/adaboost/aflw/data/flickr/0/image03890.jpg
+178 445 185 445
+/home/capstone/adaboost/aflw/data/flickr/0/image03890.jpg
+234 555 207 555
+/home/capstone/adaboost/aflw/data/flickr/0/image03890.jpg
+17 172 178 172
+/home/capstone/adaboost/aflw/data/flickr/0/image03890.jpg
+326 195 186 195
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+993 862 420 862
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+29 878 505 878
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+988 964 460 964
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+1168 964 487 964
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+1396 399 540 399
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+24 463 430 463
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+1317 928 483 928
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+801 63 434 63
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+733 901 524 901
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+524 1020 429 1020
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+1077 930 447 930
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+1384 965 491 965
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+193 887 474 887
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+263 18 465 18
+/home/capstone/adaboost/aflw/data/flickr/0/image67097.jpg
+55 409 469 409
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+93 223 159 223
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+10 342 108 342
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+183 194 111 194
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+119 375 102 375
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+205 199 115 199
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+6 292 104 292
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+122 351 105 351
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+201 14 107 14
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+4 243 119 243
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+72 330 126 330
+/home/capstone/adaboost/aflw/data/flickr/0/image66820.jpg
+165 275 150 275
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+70 186 115 186
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+120 129 117 129
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+167 156 113 156
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+125 176 111 176
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+44 141 138 141
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+177 60 134 60
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+36 2 102 2
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+198 38 110 38
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+150 5 105 5
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+84 86 103 86
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+95 375 112 375
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+21 41 126 41
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+11 346 112 346
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+154 118 104 118
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+213 221 112 221
+/home/capstone/adaboost/aflw/data/flickr/0/image06304.jpg
+1 227 102 227
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+1089 1758 695 1758
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+52 1691 728 1691
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+159 1623 743 1623
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+1079 1859 712 1859
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+583 1587 710 1587
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+20 137 761 137
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+88 628 782 628
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+1075 2010 698 2010
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+761 2527 715 2527
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+1211 1834 710 1834
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+1107 2346 743 2346
+/home/capstone/adaboost/aflw/data/flickr/0/image00176.jpg
+524 505 818 505
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+72 525 409 525
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+254 729 394 729
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+234 473 504 473
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+573 513 421 513
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+332 533 468 533
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+1342 13 408 13
+/home/capstone/adaboost/aflw/data/flickr/0/image18885.jpg
+737 9 409 9
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+41 1 103 1
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+86 1 105 1
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+4 3 111 3
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+20 38 103 38
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+69 70 113 70
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+259 207 110 207
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+26 62 129 62
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+102 171 128 171
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+257 149 104 149
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+60 31 117 31
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+155 181 131 181
+/home/capstone/adaboost/aflw/data/flickr/0/image02698.jpg
+59 162 120 162
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+205 3450 1113 3450
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+588 110 1218 110
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+731 2174 1758 2174
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+1780 1510 1200 1510
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+1738 3526 1277 3526
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+48 244 1124 244
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+180 1553 1281 1553
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+147 11 1088 11
+/home/capstone/adaboost/aflw/data/flickr/0/image07750.jpg
+1283 2691 1327 2691
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+26 3 103 3
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+268 2 104 2
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+258 230 100 230
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+23 45 197 45
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+238 183 118 183
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+379 211 111 211
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+275 230 100 230
+/home/capstone/adaboost/aflw/data/flickr/0/image06518.jpg
+213 64 122 64
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+23 292 124 292
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+65 279 110 279
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+15 381 106 381
+/home/capstone/adaboost/aflw/data/flickr/0/image11683.jpg
+60 300 131 300
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+621 114 172 114
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+29 147 175 147
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+4 374 170 374
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+186 318 196 318
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+311 398 190 398
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+353 301 201 301
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+213 86 169 86
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+535 2 171 2
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+47 369 188 369
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+144 323 176 323
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+462 396 165 396
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+599 416 170 416
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+352 375 215 375
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+535 128 192 128
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+136 83 179 83
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+592 314 189 314
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+8 86 184 86
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+9 143 170 143
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+233 154 214 154
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+489 374 185 374
+/home/capstone/adaboost/aflw/data/flickr/0/image67069.jpg
+186 422 167 422

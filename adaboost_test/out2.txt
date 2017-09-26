@@ -1,0 +1,26 @@
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+28 100 91 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+41 159 107 159
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+44 107 97 107
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+13 72 93 72
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+31 60 97 60
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+35 93 103 87
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+53 144 91 144
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+38 133 122 125
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+19 53 97 53
+/home/capstone/adaboost/aflw/data/flickr/photo/image30428.jpg
+361 100 97 100
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1556 906 720 906
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+2120 1175 767 1125
+/home/capstone/adaboost/aflw/data/flickr/photo/image68708.jpg
+1978 1051 958 1051

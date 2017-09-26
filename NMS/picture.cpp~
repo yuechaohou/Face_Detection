@@ -1,0 +1,222 @@
+#include "opencv2/objdetect/objdetect.hpp"
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/imgproc/imgproc.hpp"
+
+#include <iostream>
+#include <stdio.h>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <math.h>
+
+using namespace std;
+using namespace cv;
+
+String test_data_folder = "TestData";
+String test_info = "file.txt";
+
+std::vector<String> getImageNames (std::vector<int> &type);
+std::vector<Rect> getAns(String image_name);
+void draw_rects(Mat *frame, std::vector<Rect> &faces, Scalar color, int thickness, int lineType);
+std::vector<Rect> sorting(std::vector<Rect> &answer, std::vector<int> &type);
+bool overlap_bool(Rect rectA, Rect rectB, int threshold );
+std::vector<Rect> overall(std::vector<Rect> faces, int threshold);
+
+int main( int argc, char** argv )
+{
+    std::vector<String> image;
+    std::vector<int> type;
+    String org_image;
+    if (argc == 1){
+	image=getImageNames(type);
+    }
+    else if ( argc != 2 )
+    {
+	   printf("Wrong command.");
+    	   return -1;
+    }
+
+	for (unsigned int num = 0; num < image.size(); num++){//per image in the folder	
+		//Load Image
+		Mat frame;
+		Mat frame_gray;
+		String iname = image[num];
+	 	frame = imread(iname, 1 );
+		//cvtColor( frame, frame_gray, COLOR_BGR2GRAY );
+		//equalizeHist( frame_gray, frame_gray );
+		if ( frame.data ){
+			std::vector<Rect> faces_ans;
+			std::vector<Rect> final_face;
+			std::vector<Rect> done_ans;
+			faces_ans = getAns(image[num]);
+			final_face=sorting(faces_ans,type);
+			done_ans=overall(final_face,90);		
+			Mat * temp = &frame;			
+			draw_rects(temp, done_ans,Scalar(0,0,255),3,0);
+			
+			size_t iPos = image[num].find_last_of("/");
+			String name = image[num].substr(iPos+1, image[num].length()-1);
+			String oname= "photo/"+name;
+			//cout<< oname <<endl;		
+			imwrite(oname, frame ); 
+		}
+	}
+	
+	waitKey(0);
+	return 0;
+}
+    
+std::vector<Rect> getAns (String image_name){
+	std::vector<Rect> Ans;
+	//Read in real positions
+	ifstream filestream;
+	string filename = test_info;
+	filestream.open(filename.c_str());
+	if ( !filestream.is_open()){
+		cout << "open failed1" << endl; 
+		exit(1);
+	}
+	std::string line;
+	std::string word;
+	int x,y,w,h;
+	while (getline(filestream, line)) {
+		if (line == image_name) {
+			getline(filestream, line);
+			getline(filestream, line);
+			istringstream iss(line);
+			iss >> x;
+			iss >> y;
+			iss >> w;
+			iss >> h;
+			cout << "x=" << x <<  " y=" << y << " x2=" << x+w << " y2=" << y+h <<"\n";
+			Ans.push_back(Rect(x,y,w,h));	
+		}
+	}
+	filestream.close();
+	//cout << Ans[0].x <<Ans[0].y<< Ans[0].width<< Ans[0].height<<"\n"; 
+	return Ans;
+}
+
+std::vector<Rect> sorting(std::vector<Rect> &answer, std::vector<int> &type){
+	int max=0;
+	std::vector<int> score;
+	std::vector<Rect> ans;
+	score.push_back(0);
+	ans.push_back(answer[0]);
+	for(unsigned int i=1; i<type.size();i++){	
+		for(unsigned int j=0; j<score.size();j++){
+			if(score[j]<type[i]){
+				score.insert(score.begin()+j,type[i]);
+				ans.insert(ans.begin()+j,answer[i]);
+				break;				
+			}
+		}
+	}  
+
+	return ans;
+}
+
+   
+std::vector<String> getImageNames (std::vector<int> &type){
+	std::vector<String> Ans;
+	ifstream filestream;
+	string filename = test_info;
+	filestream.open(filename.c_str());
+	if ( !filestream.is_open()){
+		cout << "open failed" << endl;
+		exit(1);
+	}
+	std::string line;
+	std::string word;
+	while (getline(filestream, line)) {
+		Ans.push_back(line);
+		getline(filestream, line);
+		int i=atoi(line.c_str());
+		type.push_back(i);
+		getline(filestream, line);
+	}
+	filestream.close();
+	return Ans;
+}
+
+void draw_rects(Mat *frame, std::vector<Rect> &faces, Scalar color, int thickness, int lineType){
+		for (size_t i=0; i< faces.size(); i++){
+			Point top_left( faces[i].x, faces[i].y);
+			Point bottom_right( faces[i].x + faces[i].width, faces[i].y + faces[i].height );
+			rectangle(*frame, top_left, bottom_right, color, thickness, lineType);
+			//cout << faces[i].x <<" "<<faces[i].y<<" "<< faces[i].x+faces[i].width<<" "<< faces[i].y+faces[i].height<<"\n"; 
+		}
+}
+
+bool overlap_bool(Rect rectA, Rect rectB, int threshold ){
+	int x1,y1,x2,y2,overlap;
+	x1 = max(rectA.x,rectB.x);
+	x2 = min(rectA.x+rectA.width,rectB.x+rectB.width);
+	y1 = max(rectA.y,rectB.y);
+	y2 = min(rectA.y+rectA.height,rectB.y+rectB.height);
+	if ((x2>x1) && (y2>y1)) { 
+		overlap = 100*(x2-x1)*(y2-y1)/(rectA.width*rectA.height);
+		if (overlap > threshold) return 1;
+	}
+	return 0;
+}
+
+
+std::vector<Rect> overall(std::vector<Rect> faces, int threshold){
+	std::vector<bool> mark;
+	std::vector<int> type;
+	vector<Rect> Ans;
+	int a,b;
+	for (size_t i=0; i< faces.size(); i++){	
+		mark.push_back(false);
+		type.push_back(0);
+	}
+	int i=0;
+	int j=i+1;
+	int style=1;
+	int N=mark.size();
+	while(i<N){
+		if(mark[i]){
+			i++;
+			j=i+1;
+		}
+		else{
+			next:
+			if(j==N){
+				Rect sum=Rect(0.0,0.0,0.0,0.0);
+				double num=0;
+				mark[i]=true;
+				type[i]=style;
+				for(size_t k=i; k<N; k++){
+					if(mark[k] && (type[k]==style)){
+						sum=Rect(sum.x+faces[k].x, sum.y+faces[k].y, sum.width+faces[k].width, sum.height+faces[k].height);
+						num++;
+					}
+					//Ans.push_back(Rect((int)(sum.x /num), (int)(sum.y /num), (int)(sum.width /num), (int)(sum.height /num)));
+				}
+				//mark[i]=true;
+				//cout << "write" << "\n";
+				Ans.push_back(Rect(sum.x/num, sum.y/num, sum.width/num, sum.height/num));
+				style++;
+			}
+			else{
+				//cout<<"i:"<< i <<"\n";
+				//cout<<"j:"<< j <<"\n";
+				if(mark[j]){
+					j++;
+					goto next;
+				}
+				else{
+					//cout<<"j:"<<j<< "\n";
+					if(overlap_bool(faces[i],faces[j],threshold)){
+						mark[j]=true;
+						type[j]=style;
+					}
+					j++;
+					goto next;
+				}
+			}		
+		}
+	}
+	return Ans;
+}

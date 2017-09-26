@@ -1,0 +1,6 @@
+echo "Left Recall Rate"
+ ./recall ../../adaboost_train/left_profile_face_model/cascade.xml /home/capstone/adaboost/adaboost_sample/data_info_produce_recall/new_pos_info_left.txt
+echo "Front Recall Rate"
+./recall ../../adaboost_train/front_profile_face_model/cascade.xml /home/capstone/adaboost/adaboost_sample/data_info_produce_recall/new_pos_info_front.txt
+echo "Right Recall Rate"
+ ./recall ../../adaboost_train/right_profile_face_model/cascade.xml /home/capstone/adaboost/adaboost_sample/data_info_produce_recall/new_pos_info_right.txt

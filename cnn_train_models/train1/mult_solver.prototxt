@@ -1,0 +1,21 @@
+base_lr: 0.001
+display: 2000
+lr_policy: "multistep"
+gamma:0.1
+#stepvalue: 206800
+stepvalue: 413600
+stepvalue: 620400
+stepvalue: 827200
+max_iter: 1034000
+momentum: 0.9
+snapshot: 10340
+snapshot_prefix: "/home/capstone/cnn_train_models/train_2class/model_1120/face"
+test_interval: 10340
+test_iter: 3894
+test_net: "/home/capstone/cnn_train_models/train_2class/face_test.prototxt"
+train_net: "/home/capstone/cnn_train_models/train_2class/face_train.prototxt"
+weight_decay: 0.005
+solver_mode: GPU
+solver_type: SGD
+
+

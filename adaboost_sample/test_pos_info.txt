@@ -1,0 +1,10 @@
+/home/capstone/adaboost/aflw/data/new/image61944.jpg 1 149 142 191 191
+/home/capstone/adaboost/aflw/data/new/image20086.jpg 1 386 221 798 798
+/home/capstone/adaboost/aflw/data/new/image28422.jpg 1 165 159 192 192
+/home/capstone/adaboost/aflw/data/new/image42132.jpg 1 525 160 169 169
+/home/capstone/adaboost/aflw/data/new/image54986.jpg 1 52 50 241 241
+/home/capstone/adaboost/aflw/data/new/image06996.jpg 1 365 73 361 361
+/home/capstone/adaboost/aflw/data/new/image70397.jpg 1 7 169 268 268
+/home/capstone/adaboost/aflw/data/new/image44011.jpg 1 168 85 134 134
+/home/capstone/adaboost/aflw/data/new/image38740.jpg 1 328 40 54 54
+/home/capstone/adaboost/aflw/data/new/image68673.jpg 2 125 371 329 329 125 371 329 329
