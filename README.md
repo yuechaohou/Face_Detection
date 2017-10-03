@@ -20,8 +20,6 @@ We used the Adaboost in OpenCV library as a pre-filter to scan the candidates
 
 This part we trained our CNN model inspired with Cifar-10 on Caffe  with the data from aflw database to delete the  wrong candidates
 
-![cnn](D:\Documents\GitHub\Face_Detection\cnn.png)
-
 * NMS
 
 Finally, we use NMS (Non-maximum suppression) algorithm to eliminating the wrong windows and combining the duplicate the frames into the final candidates
