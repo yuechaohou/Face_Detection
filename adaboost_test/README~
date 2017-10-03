@@ -1,0 +1,7 @@
+1. parallel_fast.sh for adaboost detectmultscale() final frame size 1/5
+   parallel_more.sh for adaboost detectmultscale() final frame size 1/10
+
+2. ~/adaboost/adaboost_test/adaboost_test_front.cpp  => adaboost_test_front
+   ~/adaboost/adaboost_test/adaboost_test_left.cpp   => adaboost_test_left
+   ~/adaboost/adaboost_test/adaboost_test_right.cpp  => adaboost_test_right
+

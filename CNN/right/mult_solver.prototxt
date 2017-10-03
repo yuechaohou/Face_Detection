@@ -1,0 +1,23 @@
+base_lr: 0.001
+display: 2000
+lr_policy: "multistep"
+gamma:0.1
+stepvalue: 378708
+stepvalue: 568062
+stepvalue: 757416
+#31559 batch number * 100 batch size=3155900 training sample size
+#31559 iteration/epoch *30 epoch=946770
+max_iter: 946770
+momentum: 0.9
+snapshot: 367269
+snapshot_prefix: "/home/capstone/cnn_train_models/model_right/face"
+test_interval: 10060
+# 2991 batch number * 100 batch size =299100 testing sample size
+test_iter: 2991
+test_net: "/home/capstone/cnn_train_models/train_right/face_test.prototxt"
+train_net: "/home/capstone/cnn_train_models/train_right/face_train.prototxt"
+weight_decay: 0.005
+solver_mode: GPU
+#solver_type: SGD
+
+

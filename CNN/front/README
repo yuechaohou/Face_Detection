@@ -1,0 +1,17 @@
+Training Procedure
+1. Use test3.sh to choose some positive and negative samples as test samples, and move them to a new directory
+2. Use try.py to print positive training samples list in tmp_pos.txt and negative training samples list in tmp_neg.txt
+3. Based on batch size 100 and ratio between positive and negative training sample number, choose the best ratio between positive training sample and negative training sample.
+4. Use create_list.cpp to create training samples list.
+5. Use create_lmdb.sh to transform training sample to lmdb form
+6. Use create_meanfile.sh to create meanfile
+7. Change parameters in mult_solver.prototxt 
+8. Change directory of training and testing samples in face_train.prototxt, face_test.prototxt
+9. Run python ~/caffe/python/train_face.py to train model and plot figure.
+
+Testing Procedure
+1. Use ~/caffe/python/convert_mean.py to convert face_mean.binaryproto to face_mean.npy
+2. face_deploy.prototxt for testing batch size 1 
+3. face_deploy2.prototxt for testing batch size <=500 (parallel computation of GPU)
+4. run python ~/caffe/python/test_pl_front.py to test figure (see pipeline folder for test files)
+

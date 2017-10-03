@@ -1,0 +1,26 @@
+#learning rate
+base_lr: 0.001
+#display on screen every 2000 iterations
+display: 2000
+lr_policy: "multistep"
+gamma:0.1
+stepvalue: 434580    #lr_rate decrease to 0.0001
+stepvalue: 651870    #lr_rate decrease to 0.00001
+stepvalue: 869160    #lr_rate decrease to 0.000001
+#36215 batch * 100 batch size=3621500 training sample size
+#36215 iterations/epoch * 30 epoch=1086450 max_iteration
+max_iter: 1086450
+momentum: 0.9
+snapshot: 36215
+snapshot_prefix: "/home/capstone/cnn_train_models/model_front/face"
+#test every 12071 
+test_interval: 12071
+#3712 batch *100 batch size =371200 testing sample size 
+test_iter: 3712
+test_net: "/home/capstone/cnn_train_models/train_front/face_test.prototxt"
+train_net: "/home/capstone/cnn_train_models/train_front/face_train.prototxt"
+weight_decay: 0.005
+solver_mode: GPU
+#solver_type: SGD
+
+
